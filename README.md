@@ -4,21 +4,20 @@ A responsive GreenDen website clone built using Tailwind CSS. This project repli
 
 # Features
 
--Fully responsive design
+- Fully responsive design
 
--Built with Tailwind CSS for easy customization
+- Built with Tailwind CSS for easy customization
 
 
 # Technologies Used
 
--HTML
+- HTML
 
--Tailwind CSS
+- Tailwind CSS
 
 ## How to Use
 
-You can access my udemy-clone by visiting [
-]. Feel free to explore the content and get in touch!
+You can access my Greenden-clone by visiting [https://saranyasathya67.github.io/greenden-tailwind/]. Feel free to explore the content and get in touch!
 
 ## contributing
 
